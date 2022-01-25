@@ -39,7 +39,7 @@ def ejecutarOpcion(opcion):
             if len(personas)>0:
                 funciones.listarPersonas(personas)
             else:
-                print("No se encontraron personas ...")
+                print("No se enconfsdfsdtraron personas ...")
         except:
             print("Ocurrio un error...")
 
